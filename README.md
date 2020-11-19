@@ -24,3 +24,14 @@ Might switch to ECS when it is officially released.
 ### target platform
 - PC
 - Mobile phone
+
+### Gameplay
+- lane
+- terrain
+- minion
+- magic
+- hero
+
+### theme
+- C'thun
+- Mythology
