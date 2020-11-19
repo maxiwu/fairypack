@@ -35,3 +35,7 @@ Might switch to ECS when it is officially released.
 ### theme
 - C'thun
 - Mythology
+
+### Game mode
+- online
+- LAN duel
